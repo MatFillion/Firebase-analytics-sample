@@ -2,7 +2,6 @@ C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPer
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\bin\Debug\netstandard2.0\FireBaseAnalyticsPerf.dll
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\bin\Debug\netstandard2.0\ref\FireBaseAnalyticsPerf.dll
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\bin\Debug\netstandard2.0\FireBaseAnalyticsPerf.pdb
-C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\obj\Debug\netstandard2.0\FireBaseAnalyticsPerf.csprojAssemblyReference.cache
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Projects\Firebase-analytics-sample\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\FireBaseAnalyticsPerf\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
